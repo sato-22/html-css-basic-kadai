@@ -2,7 +2,7 @@ html{
   font-size: 20px;
 }
 body {
-  font-family "Arial", "Meiryo", sans-serif;
+  font-family: "Arial", "Meiryo", sans-serif;
   
 text-align: center;
 }
@@ -14,9 +14,6 @@ text-align: center;
   }
 h1 {
   font-family: 'Josefin Sans', sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
   font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 1px 1px 2px gray;
