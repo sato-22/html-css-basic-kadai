@@ -1,9 +1,8 @@
-#top{
+#top
+{
   width: 800px;
   background-color: #dcc9f4;
   margin: 20px auto;
-}
-p{
   text-align: center;
 }
 .top-child
@@ -11,10 +10,9 @@ p{
 width: 20%;
 background-color: #ffd9df;
 display: inline-block;
-position: relative;
-left: 20%;
 }
-#middle{
+#middle
+{
   width: 800px;
   height: 800px;
   background-color: #ffd9df;
@@ -53,7 +51,6 @@ left: 20%;
   height: 300px;
   margin: auto;
   background: #87ceeb;
-  position: relative;
 }
 #bottom-child01
 {
@@ -66,7 +63,7 @@ background-color: #e5dcf0;
 width:400px;
 height:100px;
 background-color: #e5dcf0;
-position: absolute;
+position: relative;
 left: 200px;
 }
 #bottom-child03
@@ -74,7 +71,6 @@ left: 200px;
 width:400px;
 height:100px;
 background-color: #e5dcf0;
-position: absolute;
+position: relative;
 left: 400px;
-top: 200px;
 }
